@@ -43,3 +43,8 @@ https://auroramarket.org
 ---
 
 Built with ❤️ by Aurora Rayes LLC
+## Aurora Ecosystem Positioning
+This project is positioned as part of the Aurora ecosystem: composable, automation-friendly, and ready for MCP-connected workflows.
+
+## No-Key-First
+This repository follows a no-key-first approach: local/default capabilities should work before optional API keys are configured.

@@ -1,15 +1,36 @@
 {
   "name": "farmsimulator",
   "displayName": "F Ar Ms Im Ul At Or",
-  "description": "Android Game from Aurora Market - Unity 3D Game",
+  "description": "Android Game from Aurora Market - Unity 3D Game. Aurora ecosystem-ready (no-key-first).",
   "category": "mobile",
-  "stack": ["Unity", "Android"],
+  "stack": [
+    "Unity",
+    "Android"
+  ],
   "version": "1.0.0",
   "pricing": {
     "free": true,
     "plans": [
-      {"name": "Starter", "price": 9, "interval": "month", "features": ["Core features", "1 user", "Basic support"]},
-      {"name": "Pro", "price": 29, "interval": "month", "features": ["All Starter features", "Unlimited usage", "Priority support"]}
+      {
+        "name": "Starter",
+        "price": 9,
+        "interval": "month",
+        "features": [
+          "Core features",
+          "1 user",
+          "Basic support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 29,
+        "interval": "month",
+        "features": [
+          "All Starter features",
+          "Unlimited usage",
+          "Priority support"
+        ]
+      }
     ]
   },
   "marketplace": {
